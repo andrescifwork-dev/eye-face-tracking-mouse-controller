@@ -28,10 +28,6 @@ This project implements a functional human-computer interface using a Raspberry 
 - `docs/`: Technical documentation and flowcharts
 - `esp32/`: Arduino code for mouse control via Bluetooth
 
-## 🎥 Demo
-
-[Watch demo video](https://www.youtube.com/watch?v=demo-link) *(replace with actual link)*
-
 ## 🚀 How It Works
 
 1. Raspberry Pi captures webcam feed and processes it using OpenCV and TensorFlow.
@@ -40,10 +36,5 @@ This project implements a functional human-computer interface using a Raspberry 
 4. Mouth gesture toggles between cursor and scroll mode.
 5. Commands are sent via Bluetooth to ESP32, which emulates mouse actions on the target device.
 
-## 📄 License
-
-This project is released under the MIT License.
-
----
-
 Feel free to reach out for collaboration or feedback!
+
