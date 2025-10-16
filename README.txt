@@ -23,9 +23,7 @@ This project implements a functional human-computer interface using a Raspberry 
 ## 📁 Project Structure
 
 - `src/`: Python scripts for image processing and Bluetooth communication
-- `models/`: TensorFlow model for masked face detection
 - `img/`: System diagrams and screenshots
-- `docs/`: Technical documentation and flowcharts
 - `esp32/`: Arduino code for mouse control via Bluetooth
 
 ## 🚀 How It Works
@@ -37,4 +35,3 @@ This project implements a functional human-computer interface using a Raspberry 
 5. Commands are sent via Bluetooth to ESP32, which emulates mouse actions on the target device.
 
 Feel free to reach out for collaboration or feedback!
-
